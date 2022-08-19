@@ -19,13 +19,14 @@ Aplikasi berita ini menggunakan data API dari website **newsapi.org** menggunaka
 
 **Credential API (readsevenone)**
 - [x] **For Development Testing**
-- [x] API Key : 910186c24d154fce9bc03bca9794e87f (r71)
+- [x] API Key : **910186c24d154fce9bc03bca9794e87f** (APIKey newsapi.org)
+- [x] API Key : **da7b4d74** (APIKey omdbapi.com)
 - [x] Email : hedmcw@arxxwalls.com
 - [x] Password : helda123@@
 
 **Credential API (ninjandri)**
 - [x] **For Development Testing**
-- [x] API Key : 47a4098ce41c45a0970940bcd28c399a (r71)
+- [x] API Key : **47a4098ce41c45a0970940bcd28c399a** (Key newsapi.org)
 - [x] Email : farkateyde@vusra.com
 - [x] Password : ninjandri
 
