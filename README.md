@@ -16,3 +16,17 @@ Aplikasi berita ini menggunakan data API dari website **newsapi.org** menggunaka
 - [ ] API Key dari newsapi.org (buat akun sendiri)
 
 # FOCUS;LEARNINGBYDOING;KEEPGOING;COMMIT;DONTGIVEIN
+
+**Credential API (readsevenone)**
+- [x] **For Development Testing**
+- [x] API Key : 910186c24d154fce9bc03bca9794e87f (r71)
+- [x] Email : hedmcw@arxxwalls.com
+- [x] Password : helda123@@
+
+**Credential API (ninjandri)**
+- [x] **For Development Testing**
+- [x] API Key : 47a4098ce41c45a0970940bcd28c399a (r71)
+- [x] Email : farkateyde@vusra.com
+- [x] Password : ninjandri
+
+# FOCUS;LEARNINGBYDOING;KEEPGOING;COMMIT;DONTGIVEIN
