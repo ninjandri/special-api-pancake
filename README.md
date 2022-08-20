@@ -1,5 +1,5 @@
 ## Special API Pancake
-Aplikasi API Pancake, tidak tahu ini untuk apa, tapi intinya untuk belajar, bagamaina membuat API entah Restfull API server atau Client.
+Aplikasi API Pancake, tidak tahu ini untuk apa, tapi intinya untuk belajar, bagamaina membuat API entah Restfull API server atau Client. tapi lebih ke aplikasi tools yang di dapat dari openAPI.
 
 # FOCUS;LEARNINGBYDOING;KEEPGOING;COMMIT;DONTGIVEIN
 

@@ -52,6 +52,6 @@ include 'lib/function/main_function.php';
     <div class="jumbotron" style="background-color: #044d8d; color: white;">
         <div class="container" style="padding-bottom: 10px;">
             <h1>API Pancake</h1>
-            <i style="font-size: 16px;">API Special Pancake for Development testing</i>
+            <i style="font-size: 16px;">API Special Pancake for Development testing, tools openAPI, banyak fitur yang akan di deploy disini.</i>
         </div>
     </div>
