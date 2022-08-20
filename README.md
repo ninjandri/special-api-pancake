@@ -37,6 +37,8 @@ Aplikasi API Pancake, tidak tahu ini untuk apa, tapi intinya untuk belajar, baga
 
 **Task**
 Kita ambil data dari API url menggunakan 2 metode dibawah : 
-- [ ] Get data API menggunakan metode Curl
+- [x] Get data API menggunakan metode Curl
 - [ ] Get data API menggunakan metode libraries guzzle php
-- [ ] Ambil data di Website Github masing untuk modul dashboard
+- [x] Ambil data profile di Github API
+- [ ] Ambil data berita di news API
+- [ ] Ambil data film di omdb API
