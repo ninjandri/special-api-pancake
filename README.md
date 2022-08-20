@@ -1,10 +1,13 @@
 ## Special API Pancake News
 Aplikasi berita ini menggunakan data API dari website **newsapi.org** menggunakan bahasa pemograman php (PHP Native)
 
+# FOCUS;LEARNINGBYDOING;KEEPGOING;COMMIT;DONTGIVEIN
+
 **Spesifikasi**
 - [ ] PHP Native
 - [ ] Template dengan bootstrap 3
 - [ ] Menggunakan php curl untuk mengambil data dari Sumber API
+- [ ] Menggunakan libraries guzzle untuk mengambil data dari sumber API
 
 **Siapkan tools dibawah**
 - [ ] Webserver (Laragon)
@@ -31,3 +34,9 @@ Aplikasi berita ini menggunakan data API dari website **newsapi.org** menggunaka
 - [x] Password : ninjandri
 
 # FOCUS;LEARNINGBYDOING;KEEPGOING;COMMIT;DONTGIVEIN
+
+**Task**
+Kita ambil data dari API url menggunakan 2 metode dibawah : 
+- [ ] Get data API menggunakan metode Curl
+- [ ] Get data API menggunakan metode libraries guzzle php
+- [ ] Ambil data di Website Github masing untuk modul dashboard
