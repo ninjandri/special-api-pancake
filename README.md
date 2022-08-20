@@ -1,5 +1,5 @@
-## Special API Pancake News
-Aplikasi berita ini menggunakan data API dari website **newsapi.org** menggunakan bahasa pemograman php (PHP Native)
+## Special API Pancake
+Aplikasi API Pancake, tidak tahu ini untuk apa, tapi intinya untuk belajar membuat API entah Restfull API server atau Client.
 
 # FOCUS;LEARNINGBYDOING;KEEPGOING;COMMIT;DONTGIVEIN
 
