@@ -9,7 +9,11 @@
 # tampilkan user github RSO
 # menggunakan fungsi curl yang sudah di buat di function
 
+# github account readsevenone
 $profile_rso = http_request('https://api.github.com/users/readsevenone');
+
+# github account ninjandri
+$profile_njd = http_request('https://api.github.com/users/ninjandri');
 
 ?>
 
@@ -33,16 +37,16 @@ $profile_rso = http_request('https://api.github.com/users/readsevenone');
         <div class="row">
 
             <div class="col-lg-6 text-center" style="margin-bottom: 40px;">
-                <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-                <h2 class="text-danger">{YOUR_NAME}</h2>
+                <img class="img-circle" src="<?= $profile_njd['avatar_url'] ?>" alt="Generic placeholder image" width="140" height="140">
+                <h3 class="text-danger"><?= $profile_njd['login'] ?></h3>
                 <p>
-                    {YOUR_DESCRIPTION} : Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto laboriosam suscipit possimus vero sed facilis, quibusdam error aut facere praesentium quia corporis eos. Perferendis reprehenderit libero sequi aperiam, dolor possimus?
+                    Nama lengkap <?= $profile_njd['name'] ?> sebagai pemain inti, yang bertempat tinggal di <?= $profile_njd['location'] ?>, doi punya codename <?= $profile_njd['login'] ?> bisa cek di link github nya,
+                    <a href="<?= $profile_njd['html_url'] ?>" target="_new" onclick="return confirm('Benernih mau kepoin ??');" style="text-decoration: none;">Kepoin yu !! </a> biar kenal.
                 </p>
 
                 <blockquote style="margin-top: 20px;">
-                    {YOUR_BIO}
+                    <?= $profile_njd['bio'] ?>
                 </blockquote>
-
             </div>
 
             <div class="col-lg-6 text-center" style="margin-bottom: 40px;">
