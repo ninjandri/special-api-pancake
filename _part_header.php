@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 # Call libraries function
 # panggil disini karena akan di pakai berulang2
@@ -49,11 +49,9 @@ include 'lib/function/main_function.php';
         </div>
     </nav>
 
-    <div class="jumbotron" style="background-color: #045a8d; color: white;">
+    <div class="jumbotron" style="background-color: #044d8d; color: white;">
         <div class="container" style="padding-bottom: 10px;">
-            <h1>API Special Pancake</h1>
-            <i class="text-white" style="font-size: 16px;">
-                Selamat datang, di modul aplikasi API Pancake, aplikasi ini merupakan aplikasi tester yang di buat untuk development testing. silahkan explore dan silahkan untuk memberi masukan jika memang ada masukan dari para pengunjung site kami.
-            </i>
+            <h1>API Pancake</h1>
+            <i style="font-size: 16px;">API Special Pancake for Development testing</i>
         </div>
     </div>
